@@ -1,1 +1,0 @@
-* Refer [here](https://github.com/devopswithcloud/terraform-devops) for all terraform code
